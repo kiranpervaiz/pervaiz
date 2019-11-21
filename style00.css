@@ -1,0 +1,632 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    height: 15vh;
+    width: 100%;
+    background:none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.navbar li{
+    list-style: none;
+    
+    font-size: 25px;
+}
+
+ul{
+    
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.container{
+    height: 80vh;
+    width: 100%;
+    background: honeydew;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.one{
+    height:30vh;
+    width: 30%;
+    
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-around;
+    
+    
+}
+.two{
+    height: 65vh;
+    width: 30%;
+    background: honeydew;
+    display: flex;
+    justify-content: center;
+}
+.two img{
+    height: 65vh;
+    
+    
+}
+.btn{
+    height: 6vh;
+    width:24vh;
+    
+    background: rgb(103, 103, 190);
+    font-size: 20px;
+    color: cornsilk;
+}
+.btn:hover{
+    background: rgba(74, 74, 243, 0.411);
+}
+
+.container1{
+    height: 80vh;
+    width: 100%;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.one1{
+    height:70vh;
+    width: 50%;
+    background:white;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.two1{
+    height: 30vh;
+    width: 30%;
+    background:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.container2{
+    height: 90vh;
+    width: 100%;
+    background: white;
+    text-align: center;
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-between;
+    
+}
+.huge
+{
+    
+    display: flex;
+    justify-content:space-around;
+    height: 70vh;
+    flex-wrap: wrap;
+}
+.three{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+
+}
+.four{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+    
+}
+.five{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+}
+.six{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+}
+.seven{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+}
+.eight{
+    height: 30vh;
+    width: 30%;
+    background: honeydew;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+
+}
+p{
+    font-size: large;
+}
+.container3{
+    height: 40vh;
+    width: 100%;
+    background: rgb(130, 148, 228);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.a{
+    height: 30vh;
+    width:20%;
+    background: rgb(130, 148, 228);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.b{
+    height: 30vh;
+    width:20%;
+    background:none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.c{
+    height: 30vh;
+    width:20%;
+    background:none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.d{
+    height: 30vh;
+    width:20%;
+    background:none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container4{
+    height: 120vh;
+    width: 100%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.images{
+    height: 85vh;
+    width: 70%;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.images img{
+    height: 40vh;
+    width: 30%;
+}
+.reviews{
+    height: 60vh;
+    width: 100%;
+    background:honeydew;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.review1{
+    height: 30vh;
+    width: 80%;
+    background:honeydew;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.re1{
+    height: 30vh;
+    width: 45%;
+    background: honeydew;
+    display: flex;
+    align-items: center;
+    
+}
+.re2{
+    height: 30vh;
+    width: 45%;
+    background: honeydew;
+    display: flex;
+    align-items: center;
+    
+}
+.review1 img{
+    height: 15vh;
+    width: 20%;
+    border-radius: 50%;
+}
+.circle{
+    height: 80vh;
+    width: 100%;
+    background: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.circle1{
+    height: 60vh;
+    width: 70%;
+    background: none;
+    display: flex;
+    justify-content: space-between;
+}
+.c1{
+    height: 60vh;
+    width:23%;
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.c2{
+    height: 60vh;
+    width:23%;
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.c3{
+    height: 60vh;
+    width:23%;
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.c4{
+    height: 60vh;
+    width:23%;
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.p1{
+    height: 20vh;
+    width: 65%;
+    border-radius: 100%;
+    background: rgb(183, 226, 243);
+    display: flex;
+   justify-content: center;
+    align-items: center;
+}
+.p2{
+    height: 10vh;
+    width: 50%;
+    border-radius: 100%;
+    background:honeydew;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+}
+.threepic{
+    height: 70vh;
+    width: 100%;
+    background: rgb(240, 243, 243);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.threepic1{
+    height: 40vh;
+    width: 100%;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.blank{
+    height: 30vh;
+    width:100%;
+}
+.blue{
+    height: 40vh;
+    width: 100%;
+    background: rgba(70, 70, 246, 0.589);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.last{
+    height: 60vh;
+    width: 100%;
+    background: rgb(71, 63, 63);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.last1{
+    height: 40vh;
+    width: 30%;
+    background: none;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-evenly;
+}
+.last2{
+    height: 40vh;
+    width: 40%;
+    background: none;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-evenly;
+}
+.last3{
+    height: 40vh;
+    width: 20%;
+    background: none;
+    display: flex;
+    flex-direction: column;
+    
+    
+    justify-content: space-evenly;
+}
+.ppp{
+    height: 5vh;
+    width: 70%;
+}
+.last3 li{
+    list-style: none;
+    font-size: 3vh;
+
+}
+@media screen and (max-width:940px){
+    .navbar{
+        flex-direction: column;
+    }
+    li{
+        margin: 5px;
+    }
+
+}
+@media screen and (max-width:700px){
+    .container{
+        flex-direction: column;
+        height: 700px;
+    }
+   
+
+}
+@media screen and (max-width:500px){
+    .container1{
+        flex-direction: column;
+        height: 800px;
+    }
+
+}
+@media screen and (max-width:625px){
+    .container2{
+        flex-direction: column;
+        margin-top: 100px;
+    }
+    .huge{
+        flex-direction: row;
+        height: 1800px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .three{
+        width: 45%;
+        
+    }
+    .four{
+        width: 45%;
+    }
+    .five{
+        width: 45%;
+        margin-top: 10px;
+    }
+    .six{
+        width: 45%;
+        margin-top: 10px;
+    }
+    .seven{
+        width: 45%;
+        margin-top: 10px;
+        
+
+    }
+    .eight{
+        width: 45%;
+        margin-top: 10px;
+    }
+    
+
+}
+@media screen and (max-width:700px){
+    .container3{
+        margin-top: 200px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 400px;
+    }
+    .a{
+        width: 50%;
+    }
+    .b{
+        width: 50%;
+    }
+    .c{
+        width: 50%;
+    }
+    .d{
+        width: 50%;
+    }
+  
+
+}
+@media screen and (max-width:700px){
+    .container4{
+        height: 1200px;
+    }
+    .images{
+        flex-direction: row;
+        
+        height: 1000px;
+        width: 100%;
+       
+    }
+    
+    
+    
+}
+@media screen and (max-width:700px){
+    .reviews{
+        height: 500px;
+        flex-direction: column;
+    }
+    .review1{
+        flex-direction: column;
+        align-content: center;
+        justify-content: space-around;
+        height: 500px;
+    }
+    .re1{
+        width: 100%;
+    }
+    .re2{
+        width: 100%;
+    }
+    
+    
+}
+@media screen and (max-width:700px){
+    .circle{
+        flex-direction: column;
+        height: 800px;
+    }
+    .circle1{
+        height: 700px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+       
+        
+        
+    }
+    .c1{
+        width: 46%;
+        margin-top: 10px;
+    }
+    .c2{
+        width: 46%;
+        margin-top: 10px;
+
+    }
+    .c3{
+        width: 46%;
+        margin-top: 10px;
+    }
+    .c4{
+        width: 46%;
+        margin-top: 10px;
+    }
+
+
+}
+@media screen and (max-width:700px){
+    .threepic{
+        height: 1000px;
+        margin-top: 200px;
+    }
+    .threepic1{
+        flex-direction: column;
+        height: 700px;
+    }
+
+}
+@media screen and (max-width:700px){
+    .blue{
+        height: 500px;
+        flex-direction:column;
+        
+        
+    }
+    img{
+        margin: 10px;
+       
+    }
+
+
+}
+@media screen and (max-width:700px){
+    .last{
+        height: 550px;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .last1{
+        width: 70%;
+        height: 20%;
+    }
+    .last2{
+        width: 70%;
+        height: 20%;
+    }
+    .last3{
+        width: 70%;
+        height: 20%;
+    }
+
+
+}
+
+
